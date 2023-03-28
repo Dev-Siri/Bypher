@@ -16,19 +16,19 @@ It may look very different than the Figma design, and that maybe because I had m
 - Clone the repository
 
 ```sh
-git clone https://github.com/Dev-Siri/Bypher.git
+$ git clone https://github.com/Dev-Siri/Bypher.git
 ```
 
 - Install the dependencies.
 
 ```sh
-pnpm i
+$ pnpm i
 ```
 
 - Run the local dev server
 
 ```
-pnpm dev
+$ pnpm dev
 ```
 
 ## License
